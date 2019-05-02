@@ -1,4 +1,4 @@
-# Compiled class file
+﻿# Compiled class file
 *.class
 
 # Log file
@@ -26,3 +26,5 @@ hs_err_pid*
 *.gitignore
 
 #测试
+*.py
+*.txt
