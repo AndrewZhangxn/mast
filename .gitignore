@@ -23,4 +23,6 @@
 hs_err_pid*
 
 # 忽略gitignore文件
-.gitignore
+*.gitignore
+
+#测试
